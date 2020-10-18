@@ -1,4 +1,4 @@
-package com.hncpu.student_information.student_information;
+package com.hncpu.student_information;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
